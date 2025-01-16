@@ -87,14 +87,6 @@ Unleash your creative potential with these design and content tools.
 
 Looking for a comprehensive list of AI tools to explore? Check out the extensive collection below, categorized for your convenience. Whether you're into development, data analysis, creativity, or other areas, you'll find tools that suit your needs.
 
-- [AI Text Tools](#text)
-- [Code with AI](#code)
-- [Generative AI Images](#image)
-- [Generative AI Video](#video)
-- [Generative AI Audio](#audio)
-- [Other AI Tools](#other)
-
-Dive into the world of AI and discover tools that can enhance your productivity, creativity, and more!
 
 
 | Section | Description |
